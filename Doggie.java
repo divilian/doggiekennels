@@ -4,7 +4,6 @@
 
 import java.util.Date;
 
-/** Doggies are nice people. They are good to humans. */
 class Doggie {
     private Date birthDate;
     private DoggieName petName;
